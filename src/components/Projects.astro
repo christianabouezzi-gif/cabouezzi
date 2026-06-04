@@ -13,11 +13,11 @@ const { projects } = Astro.props;
 <Section text="Featured Projects" href="projects">
   {
     projects.map(({ name, summary, image, linkPreview, linkSource }, index) => {
-      const top = 98 + index * 60;
+      const top = 98 + index * 40;
       return (
         <div
           style={`top: ${top}px;`}
-          class="relative sm:sticky mb-12 rounded-2xl border border-neutral/20 bg-black"
+          class="relative sticky mb-12 rounded-2xl border border-neutral/20 bg-black"
         >
           <div class="relative z-1 grid w-full grid-rows-2 rounded-2xl bg-[#1c232d]/85 before:absolute before:inset-0 before:z-[-1] before:rounded-2xl before:bg-[url(/raja.png)] before:bg-size-[128px] before:bg-repeat before:opacity-5 before:content-[''] sm:grid-cols-2 sm:grid-rows-1 sm:h-96">
             <div class="px-6 pt-12 pb-8">
