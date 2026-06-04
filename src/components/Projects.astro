@@ -19,12 +19,8 @@ const { projects } = Astro.props;
           style={`top: ${top}px;`}
           class="sticky mb-12 rounded-2xl border border-neutral/20 bg-black"
         >
-          <div class="relative z-1 grid w-full grid-rows-2 rounded-2xl bg-[#1c232d]/85 
-            before:absolute before:inset-0 before:z-[-1] before:rounded-2xl 
-            before:bg-[url(/raja.png)] before:bg-size-[128px] before:bg-repeat 
-            before:opacity-5 before:content-[''] 
-            sm:grid-cols-2 sm:grid-rows-1 sm:h-96">
-            <div class="px-6 pt-12">
+          <div class="relative z-1 grid w-full grid-rows-2 rounded-2xl bg-[#1c232d]/85 before:absolute before:inset-0 before:z-[-1] before:rounded-2xl before:bg-[url(/raja.png)] before:bg-size-[128px] before:bg-repeat before:opacity-5 before:content-[''] sm:grid-cols-2 sm:grid-rows-1 sm:h-96">
+            <div class="px-6 pt-12 pb-8">
               <h3 class="mb-5 font-serif text-3xl font-medium text-primary">
                 {name}
               </h3>
@@ -46,13 +42,13 @@ const { projects } = Astro.props;
                 </a>
               </div>
             </div>
-            <div class="flex items-end justify-end overflow-hidden">
+            <div class="overflow-hidden rounded-b-2xl sm:rounded-b-none sm:rounded-r-2xl">
               <Image
-                class="h-full w-[95%] rounded-ss-xl rounded-ee-2xl object-cover object-top sm:h-[85%] sm:w-full"
-                  src={image}
-                  alt={name}
-                  width="736"
-                  height="483"
+                class="h-full w-full object-cover object-top"
+                src={image}
+                alt={name}
+                width="736"
+                height="483"
               />
             </div>
           </div>
