@@ -90,7 +90,7 @@ export const SITE_CONTENT: SiteContent = {
     },
     {
       name: "Mechatronics & Physical Computing Lab Showcase",
-      summary: "A suite of hands-on hardware engineering projects combining Arduino microcontrollers, circuit wiring, and sensor integration",
+      summary: "A suite of hands-on hardware engineering projects combining Arduino microcontrollers, circuit wiring, and sensor integration.",
       linkPreview: "/",
       linkSource: "",
       image: "/210_circuit.jpeg",
