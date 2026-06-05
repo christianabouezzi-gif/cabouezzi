@@ -83,7 +83,7 @@ export const SITE_CONTENT: SiteContent = {
     },
     {
       name: "Quantitative Microscopy & Cellular Assays",
-      summary: "A MATLAB-based image processing pipeline for automated cell counting alongside time-dependent fluorescence assays.",
+      summary: "A MATLAB-based image processing for cell counting alongside time-dependent fluorescence assays.",
       linkPreview: "/",
       linkSource: "",
       image: "/RFU.jpeg",
