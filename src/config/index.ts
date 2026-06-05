@@ -62,7 +62,7 @@ export const SITE_CONTENT: SiteContent = {
   projects: [
     {
       name: "Organoid SDP Incubation Device",
-      summary: "An MRI-safe incubation device that maintains active neuronal firing in live human brain organoids during high-field sodium MRI.",
+      summary: "An MRI-safe incubation device maintaining neuronal firing in live human brain organoids during sodium MRI.",
       linkPreview: "/",
       linkSource: "",
       image: "/cad_SDP.jpeg",
@@ -75,7 +75,7 @@ export const SITE_CONTENT: SiteContent = {
       image: "/Mystery_sound_spectro.jpeg",
     },
     {
-      name: "Computational Fourier Optics & Simulation.",
+      name: "Computational Fourier Optics",
       summary: "A MATLAB-based optical engineering suite featuring a 4f microscope simulation & OCT image reconstruction system.",
       linkPreview: "/",
       linkSource: "",
