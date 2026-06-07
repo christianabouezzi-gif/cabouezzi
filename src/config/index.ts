@@ -14,7 +14,8 @@ export const SITE_CONFIG: SiteConfig = {
   ],
   socialLinks: [
     { text: "LinkedIn", href: "https://www.linkedin.com/in/christian-abou-ezzi-202a50241/#:~:text=www.linkedin.com/in/christian%2Dabou%2Dezzi%2D202a50241"},
-    // { text: "Github", href: "https://github.com/immois/astro-zen" },
+    { text: "Github", href: "https://github.com/users/christianabouezzi-gif/projects/1/views/1" },
+    { text: "Email", href: "mailto:christian.abouezzi@gmail.com" },
   ],
   socialImage: "/zen-og.png",
   canonicalURL: "https://astro-zen.vercel.app",
