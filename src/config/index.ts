@@ -64,8 +64,8 @@ export const SITE_CONTENT: SiteContent = {
     {
       name: "Organoid SDP Incubation Device",
       summary: "An MRI-safe incubation device maintaining neuronal firing in live human brain organoids during sodium MRI.",
-      linkPreview: "/",
-      linkSource: "",
+      linkPreview: "/SDP_preview.pdf",
+      linkSource: "incubation_device.pdf",
       image: "/cad_SDP.jpeg",
     },
     {
