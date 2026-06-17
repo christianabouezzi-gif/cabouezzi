@@ -85,7 +85,7 @@ export const SITE_CONTENT: SiteContent = {
     {
       name: "Quantitative Microscopy & Cellular Assays",
       summary: "A MATLAB-based image processing for cell counting alongside time-dependent fluorescence assays.",
-      linkPreview: "/",
+      linkPreview: "/cell_preview.pdf",
       linkSource: "cell_pro_all.pdf",
       image: "/RFU.jpeg",
     },
