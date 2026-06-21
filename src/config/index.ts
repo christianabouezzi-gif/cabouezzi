@@ -78,8 +78,8 @@ export const SITE_CONTENT: SiteContent = {
     {
       name: "Computational Fourier Optics",
       summary: "A MATLAB-based optical engineering suite featuring a 4f microscope simulation & OCT image reconstruction system.",
-      linkPreview: "/",
-      linkSource: "",
+      linkPreview: "/Fourier Optics Preview.pdf",
+      linkSource: "https://github.com/christianabouezzi-gif/Computational-Fourier-Optics/tree/main",
       image: "/Microscopy.jpeg",
     },
     {
