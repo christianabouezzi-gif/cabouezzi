@@ -14,7 +14,7 @@ export const SITE_CONFIG: SiteConfig = {
   ],
   socialLinks: [
     { text: "LinkedIn", href: "https://www.linkedin.com/in/christian-abou-ezzi-202a50241/#:~:text=www.linkedin.com/in/christian%2Dabou%2Dezzi%2D202a50241"},
-    { text: "Github", href: "https://github.com/users/christianabouezzi-gif/projects/1/views/1" },
+    { text: "Github", href: "https://github.com/christianabouezzi-gif" },
     { text: "Email: christian.abouezzi@gmail.com", href: "mailto:christian.abouezzi@gmail.com" },
   ],
   socialImage: "/christian_large.jpeg",
@@ -99,7 +99,7 @@ export const SITE_CONTENT: SiteContent = {
   ],
   about: {
     description: `
-      Hi, I’m Christian Abou-Ezzi, a Biomedical Engineer from Boston University. I'm interested in signal processing, medical devices, and clnical engineering, with hands-on experince in MATLAB, Python, and embedded systems like Arduino. I enjoy working on projects that apply engineering and data analysis to real world biological and medical systems, such as ECG signal procesing, audio filtering, and sensor based device development.
+      Hi, I’m Christian Abou-Ezzi, a Biomedical Engineer from Boston University. I'm interested in signal processing, medical devices, and clinical engineering, with hands-on experince in MATLAB, Python, and embedded systems like Arduino. I enjoy working on projects that apply engineering and data analysis to real world biological and medical systems, such as ECG signal procesing, audio filtering, and sensor based device development.
       
       I'm currently looking to grow my experince in medical technology, clinical engineering, and biomedical signal processing roles.
     `,
