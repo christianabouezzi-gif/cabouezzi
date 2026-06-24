@@ -18,7 +18,7 @@ export const SITE_CONFIG: SiteConfig = {
     { text: "Email: christian.abouezzi@gmail.com", href: "mailto:christian.abouezzi@gmail.com" },
   ],
   socialImage: "/christian_large.jpeg",
-  canonicalURL: "https://astro-zen.vercel.app",
+  canonicalURL: "https://cabouezzi.vercel.app/",
 };
 
 export const SITE_CONTENT: SiteContent = {
