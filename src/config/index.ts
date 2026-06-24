@@ -17,7 +17,7 @@ export const SITE_CONFIG: SiteConfig = {
     { text: "Github", href: "https://github.com/users/christianabouezzi-gif/projects/1/views/1" },
     { text: "Email: christian.abouezzi@gmail.com", href: "mailto:christian.abouezzi@gmail.com" },
   ],
-  socialImage: "/zen-og.png",
+  socialImage: "/christian_large.jpeg",
   canonicalURL: "https://astro-zen.vercel.app",
 };
 
