@@ -71,8 +71,8 @@ export const SITE_CONTENT: SiteContent = {
     {
       name: "Digital Signal Processing",
       summary: "Advanced discrete-time filter design in MATLAB, featuring high-order filters for FDM audio recovery and image filtering.",
-      linkPreview: "/",
-      linkSource: "",
+      linkPreview: "/Digital Signal Processing portfolio.pdf",
+      linkSource: "https://github.com/christianabouezzi-gif/Digital-Signal-Processing/tree/main",
       image: "/Mystery_sound_spectro.jpeg",
     },
     {
