@@ -4,7 +4,7 @@ export const SITE_CONFIG: SiteConfig = {
   title: "Christian Abou-Ezzi — Biomedical Engineer",
   author: "Christian Abou-Ezzi",
   description:
-    "Biomedical Engineer based in Boston MA, USA. I specialize in Medical Device and Signal Processing.",
+    "Biomedical Engineer based in Boston MA, USA specializing in Medical Device and Signal Processing.",
   lang: "en",
   siteLogo: "/christian_large.jpeg",
   navLinks: [
@@ -99,7 +99,7 @@ export const SITE_CONTENT: SiteContent = {
   ],
   about: {
     description: `
-      Hi, I’m Christian Abou-Ezzi, a Biomedical Engineer fron Boston University. I'm interested in signal processing, medical devices, and clnical engineering, with hands-on experince in MATLAB, Python, and embedded systems like Arduino. I enjoy working on projects that apply engineering and data analysis to real world biological and medical systems, such as ECG signal procesing, audio filtering, and sensor based device development.
+      Hi, I’m Christian Abou-Ezzi, a Biomedical Engineer from Boston University. I'm interested in signal processing, medical devices, and clnical engineering, with hands-on experince in MATLAB, Python, and embedded systems like Arduino. I enjoy working on projects that apply engineering and data analysis to real world biological and medical systems, such as ECG signal procesing, audio filtering, and sensor based device development.
       
       I'm currently looking to grow my experince in medical technology, clinical engineering, and biomedical signal processing roles.
     `,
